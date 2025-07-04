@@ -9,7 +9,7 @@ A responsive, AI-assisted video highlight editing tool. Users can upload videos,
 
 ## 📸 Demo
 
-👉 [Live Demo URL](https://example.com)  
+👉 [Live Demo URL](https://video-highlight-tool-rebeccahsus-projects.vercel.app/)  
 
 ---
 
